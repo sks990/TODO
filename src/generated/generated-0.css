@@ -1,0 +1,9 @@
+/* src/styles/global.css */
+/* Tailwind CSS handles most styling, but you can add global overrides here if needed. */
+/* Example: */
+/* body { */
+  /* font-family: 'Inter', sans-serif; */
+/* } */
+
+/* Add dark mode class to html element for Tailwind CSS */
+/* This is handled in App.tsx by toggling 'dark' class on document.documentElement */
